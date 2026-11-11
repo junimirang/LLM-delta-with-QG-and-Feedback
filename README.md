@@ -1,4 +1,4 @@
-# LLM Synthetic Traffic Generation using QG and Feedback system
+e# LLM Synthetic Traffic Generation using QG and Feedback system
 
 Research code for generating synthetic network-session feature records from statistical metadata, screening generated records with a Mahalanobis-distance quality gate (QG), and evaluating their use as training data for remote-access traffic classification.
 
