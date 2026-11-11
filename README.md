@@ -40,7 +40,3 @@ The code archive contains scripts only. Before running the full pipeline, provid
 3. Train the Random Forest and MLP classifiers with and without synthetic augmentation. Use the held-out test data for evaluation.
 4. Evaluate distributional similarity and diversity with Jensen–Shannon divergence and Shannon entropy, visualize the groups with t-SNE, and assess sample proximity with distance to closest record (DCR).
 5. Export the summary table and figures. Check the file paths and options in each script before execution.
-
-## Citation
-
-J. Lee, “LLM-Synthetic-Traffic-Generation-using-QG,” GitHub repository. [Online]. Available: https://github.com/junimirang/LLM-Synthetic-Traffic-Generation-using-QG.
